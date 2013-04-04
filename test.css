@@ -1,0 +1,5 @@
+#TR_fix_menu_list,#TR_fix_menu_list li { list-style: none;}
+#TR_fix_menu_list { position: fixed; z-index: 999999; right: 10px; top: 100px; }
+#TR_fix_menu_list li {height: 60px; width: 60px; line-height: 60px; text-align: center;}
+#TR_fix_menu_list li a { background-color: #347e46; color: #fff; display: block; font-size: 12px; font-family: "微软雅黑";}
+#TR_fix_menu_list li a:hover {background-color: #2c693b;}
